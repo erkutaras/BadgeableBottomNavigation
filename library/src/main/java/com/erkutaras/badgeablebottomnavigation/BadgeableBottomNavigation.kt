@@ -1,8 +1,8 @@
 package com.erkutaras.badgeablebottomnavigation
 
 import android.content.Context
-import android.support.design.widget.BottomNavigationView
 import android.util.AttributeSet
+import com.google.android.material.bottomnavigation.BottomNavigationView
 
 /**
  * Created by erkutaras on 30.12.2018.
