@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="BadgeableBottomNavigation">
+        <attr name="badgeType" format="enum">
+            <enum name="dot" value="0"/>
+            <enum name="number" value="1"/>
+            <enum name="circle" value="2"/>
+        </attr>
+    </declare-styleable>
+</resources>
