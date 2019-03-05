@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+             android:layout_width="match_parent"
+             android:layout_height="match_parent">
+
+    <androidx.appcompat.widget.AppCompatTextView
+            android:id="@+id/textViewBadgeableNumber"
+            android:layout_width="12dp"
+            android:layout_height="12dp"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="8dp"
+            android:layout_gravity="top|center_horizontal"
+            android:gravity="center"
+            android:textSize="8sp"
+            android:textColor="@android:color/white"
+            android:background="@drawable/shape_badgeable_circle"/>
+
+</FrameLayout>
